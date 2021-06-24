@@ -1,6 +1,6 @@
 ## Welcome to ProductHome. This repo offers various math methods those are user as a helper for your project.
 
-[![MathUtil project | CI process included | © 2021 by Kendy](https://github.com/congthuc114/math_util/actions/workflows/mathutil-ci-actions.yml/badge.svg)](https://github.com/congthuc114/math_util/actions/workflows/mathutil-ci-actions.yml)
+[![MathUtil project | CI process included | © 2021 by Kendy]
 
 ### *_You will find happy:_* 
 * .gitignore file itself to demonstrate how to ask the Git tool to upload a file or not
