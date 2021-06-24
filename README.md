@@ -1,6 +1,6 @@
 ## Welcome to ProductHome. This repo offers various math methods those are user as a helper for your project.
 
-[![ProductHome project | Sonarcloud | © 2021 by Kendy] (https://github.com/congthuc114/ProductHome/actions/workflows/build.yml/badge.svg)](https://github.com/congthuc114/ProductHome/actions/workflows/build.yml)
+[![ProductHome project | Sonarcloud | © 2021 by Kendy](https://github.com/congthuc114/ProductHome/actions/workflows/build.yml/badge.svg)](https://github.com/congthuc114/ProductHome/actions/workflows/build.yml)
 
 ### *_You will find happy:_* 
 * .gitignore file itself to demonstrate how to ask the Git tool to upload a file or not
